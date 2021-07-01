@@ -1,0 +1,20 @@
+body{
+    background-color: #ccc;
+    background-image:url("IMG/imagen1.jpg") ;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-position:right bottom ;
+    background: size 100% 100%; 
+}
+#caja{
+    border:5px solid black;
+    padding: 10px;
+    background-color: rgb(221, 163, 163);
+    color: seagreen;
+}
+h2{
+    color white-space;
+    background: violet;
+    border:5px solid rebeccapurple ;
+    background-image: url("IMG/patron\ 2.jpg");
+}
